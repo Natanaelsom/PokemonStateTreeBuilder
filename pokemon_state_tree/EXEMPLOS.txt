@@ -1,0 +1,56 @@
+================================================================================
+         ✅ EXEMPLOS DE POKÉMON - RESTAURADOS COM SUCESSO
+================================================================================
+
+📋 DADOS DE TESTE DISPONÍVEIS:
+
+🔵 POKÉMON NA BOX (10 total):
+   1. Pikachu (Item: Leftovers)
+   2. Charizard (Item: Assault Vest)
+   3. Blastoise (Item: Choice Specs)
+   4. Venusaur (Item: Sitrus Berry)
+   5. Arcanine (Item: Choice Band)
+   6. Lapras (Item: Weakness Policy)
+   7. Gengar (Item: Life Orb)
+   8. Alakazam (Item: Choice Scarf)
+   9. Machamp (Item: Assault Vest)
+   10. Golem (Item: Rockium Z)
+
+🔴 TREINADORES (3 total):
+   1. Campeão
+      - Dragonite (Item: Choice Band)
+      - Landorus (Item: Assault Vest)
+      - Tornadus (Item: Choice Scarf)
+   
+   2. Especialista em Fogo
+      - Charizard (Item: Life Orb)
+      - Arcanine (Item: Weakness Policy)
+      - Volcarona (Item: Choice Specs)
+   
+   3. Estrategista Psíquico
+      - Alakazam (Item: Choice Scarf)
+      - Gardevoir (Item: Assault Vest)
+      - Gallade (Item: Life Orb)
+
+📂 ARQUIVOS:
+   ✓ test_box.json (2.18 KB)
+   ✓ test_enemy_library.json (2.59 KB)
+
+🚀 COMO USAR:
+   1. Abra a aplicação (main.py ou PokemonStateTreeBuilder.exe)
+   2. Os dados serão carregados AUTOMATICAMENTE
+   3. Vá para a aba "Box" para ver os Pokémon
+   4. Vá para a aba "Trainers" para ver os treinadores
+   5. Crie uma árvore de estados e teste tudo!
+
+✨ FEATURES DISPONÍVEIS:
+   ✓ Visualizar todos os 10 Pokémon de exemplo
+   ✓ Selecionar para criar estados
+   ✓ Editar HP, Status e Stats inline
+   ✓ Criar estados com botão +
+   ✓ Selecionar treinadores inimigos
+
+⏰ ÚLTIMA ATUALIZAÇÃO:
+   31/01/2026 15:21:36 (MAIS RECENTE)
+
+================================================================================

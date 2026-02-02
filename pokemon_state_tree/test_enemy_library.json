@@ -1,0 +1,103 @@
+{
+  "trainers": [
+    {
+      "name": "Campeão",
+      "battle_type": "single",
+      "pokemons": [
+        {
+          "name": "Dragonite",
+          "item": "Choice Band",
+          "is_mega": false,
+          "hp_min_percent": 100,
+          "hp_max_percent": 100,
+          "major_status": "None",
+          "minor_status": "None"
+        },
+        {
+          "name": "Landorus",
+          "item": "Assault Vest",
+          "is_mega": false,
+          "hp_min_percent": 100,
+          "hp_max_percent": 100,
+          "major_status": "None",
+          "minor_status": "None"
+        },
+        {
+          "name": "Tornadus",
+          "item": "Choice Scarf",
+          "is_mega": false,
+          "hp_min_percent": 100,
+          "hp_max_percent": 100,
+          "major_status": "None",
+          "minor_status": "None"
+        }
+      ]
+    },
+    {
+      "name": "Especialista em Fogo",
+      "battle_type": "single",
+      "pokemons": [
+        {
+          "name": "Charizard",
+          "item": "Life Orb",
+          "is_mega": false,
+          "hp_min_percent": 100,
+          "hp_max_percent": 100,
+          "major_status": "None",
+          "minor_status": "None"
+        },
+        {
+          "name": "Arcanine",
+          "item": "Weakness Policy",
+          "is_mega": false,
+          "hp_min_percent": 100,
+          "hp_max_percent": 100,
+          "major_status": "None",
+          "minor_status": "None"
+        },
+        {
+          "name": "Volcarona",
+          "item": "Choice Specs",
+          "is_mega": false,
+          "hp_min_percent": 100,
+          "hp_max_percent": 100,
+          "major_status": "None",
+          "minor_status": "None"
+        }
+      ]
+    },
+    {
+      "name": "Estrategista Psíquico",
+      "battle_type": "single",
+      "pokemons": [
+        {
+          "name": "Alakazam",
+          "item": "Choice Scarf",
+          "is_mega": false,
+          "hp_min_percent": 100,
+          "hp_max_percent": 100,
+          "major_status": "None",
+          "minor_status": "None"
+        },
+        {
+          "name": "Gardevoir",
+          "item": "Assault Vest",
+          "is_mega": false,
+          "hp_min_percent": 100,
+          "hp_max_percent": 100,
+          "major_status": "None",
+          "minor_status": "None"
+        },
+        {
+          "name": "Gallade",
+          "item": "Life Orb",
+          "is_mega": false,
+          "hp_min_percent": 100,
+          "hp_max_percent": 100,
+          "major_status": "None",
+          "minor_status": "None"
+        }
+      ]
+    }
+  ]
+}

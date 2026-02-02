@@ -1,0 +1,36 @@
+================================================================================
+         POKÉMON STATE TREE BUILDER v4.0 - EXECUTÁVEL
+================================================================================
+
+📂 LOCALIZAÇÃO DO EXECUTÁVEL:
+   Pasta:  Executavel/
+   Arquivo: PokemonStateTreeBuilder.exe
+
+📊 INFORMAÇÕES:
+   Tamanho: 11 MB
+   Versão: 4.0 (MAIS RECENTE)
+   Construído: 31/01/2026 15:18:35
+   Status: ✅ Pronto para usar
+
+🚀 COMO USAR:
+   1. Abra a pasta "Executavel"
+   2. Clique duas vezes em "PokemonStateTreeBuilder.exe"
+   3. A aplicação abrirá automaticamente
+
+✨ FEATURES INCLUSOS:
+   ✅ Árvore de estados visual
+   ✅ Seleção de Pokémon (Box e Treinadores)
+   ✅ Edição inline de Pokémon
+   ✅ Botão + para criar estados/turnos
+   ✅ Display de HP, Status e Stats
+   ✅ Dados de teste com 10 Pokémon e 3 Treinadores
+
+📝 NOTAS:
+   - Este executável contém TODAS as dependências
+   - Não requer instalação de Python
+   - Pode ser movido e compartilhado
+   - Funciona em Windows 64-bit
+
+================================================================================
+Para mais informações, veja os arquivos README.md ou QUICKSTART_v4.md
+================================================================================

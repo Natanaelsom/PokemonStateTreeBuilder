@@ -1,0 +1,2 @@
+# Pokémon State Tree Builder Requirements
+# O tkinter geralmente já vem com Python, então não há dependências externas
