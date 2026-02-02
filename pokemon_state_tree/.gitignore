@@ -1,0 +1,19 @@
+# Ignore virtual environment
+.venv/
+
+# Build / distribution artifacts
+build/
+dist/
+Executavel/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# PyInstaller
+*.spec
+
+# Editor files
+.vscode/
+*.swp
+*.swo
