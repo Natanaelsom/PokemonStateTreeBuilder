@@ -4,7 +4,7 @@
 # Build / distribution artifacts
 build/
 dist/
-Executavel/
+# Executavel/ is intentionally tracked (contains latest .exe)
 
 # Python cache
 __pycache__/
